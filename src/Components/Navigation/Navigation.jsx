@@ -67,10 +67,10 @@ export default function Navigation() {
             <AccountCircleIcon />
           </div>
           <div>
-            <span>Akila</span>
+            <span>Tanishka</span>
             <span className="opacity-70">
               <br />
-              akila@gmail.com
+              tanishka@gmail.com
             </span>
           </div>
 

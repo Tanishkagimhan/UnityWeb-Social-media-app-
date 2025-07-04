@@ -81,9 +81,9 @@ export default function Profile() {
         </div>
         <div>
           <div className="flex item-center">
-            <h1 className="font-bold text-lg">akila</h1>
+            <h1 className="font-bold text-lg">tanishka</h1>
           </div>
-          <h1 className="text-gray-500">akila@gmail.com</h1>
+          <h1 className="text-gray-500">tanishka@gmail.com</h1>
         </div>
         <div className=" mt-2 space-y-3">
           <p>awgju uaygs uaysg aiusg hajhsg aisuhg iaushg aiushg </p>

@@ -61,8 +61,8 @@ export default function TweetCard() {
         <div className="w-full">
           <div className="flex justify-between items-center">
             <div className="flex cursor-pointer items-center space-x-2">
-              <span className=" font-semibold">Akila</span>
-              <span className="text-gray-600">akila@gmail</span>
+              <span className=" font-semibold">Tanishka</span>
+              <span className="text-gray-600">tanishka@gmail</span>
             </div>
             <div>
               <Button
